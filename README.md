@@ -6,7 +6,7 @@ This repository contains a selection of small React applications and exercises c
 
 The projects progress from fundamental component and state concepts toward more involved examples using React hooks, Context API, reducers, routing, external APIs, browser storage, and Firebase / Firestore.
 
-The repository is retained as supporting evidence of practical React experience. My current engineering focus is primarily .NET and backend development.
+The collection reflects earlier hands-on front-end work, while my current engineering focus is primarily .NET and backend development.
 
 ---
 
@@ -181,4 +181,4 @@ JavaScript · React · React Hooks · Context API · React Router · REST APIs �
 
 This repository is intentionally a collection of learning-oriented React projects rather than a single production application.
 
-The projects were created to practice React concepts in isolation and in progressively more complete application scenarios. Some use older React versions or tooling that reflects the period in which the exercises were completed; they are retained as examples of hands-on front-end experience rather than actively maintained production applications.
+The projects were created to practice React concepts in isolation and in progressively more complete application scenarios. Some use older React versions or tooling that reflects the period in which the exercises were completed and are not intended to represent actively maintained production applications.
